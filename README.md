@@ -30,6 +30,8 @@
 <img align="left" alt="react" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"/>
 
 <br />
+<br />
+---
 
 <img align="left" alt="raskog1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=raskog1&show_icons=true&hide_border=true" />
 
