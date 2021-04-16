@@ -1,3 +1,5 @@
+![](https://visitor-badge.glitch.me/badge?page_id=raskog1.raskog1)
+
 ### Hello, my name is Ryan Skog. [website]
 
 ## I'm a fullstack web developer, teaching assistant, and tutor.
