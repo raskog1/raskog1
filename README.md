@@ -40,4 +40,4 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raskog1&show_icons=true&hide_border=true)](https://github.com/raskog1) -->
 
-[website]: https://ryanskog.netlify.app/
+[website]: https://ryanskog.com/
